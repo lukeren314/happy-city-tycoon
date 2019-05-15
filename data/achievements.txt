@@ -1,0 +1,1 @@
+{"Game Over": true, "Money Ending": true, "Happy Ending": true, "Awareness Ending": true, "Fear Ending": true, "Violent Ending": true, "Innovation Ending": true, "Mutant Ending": true}
